@@ -15,4 +15,5 @@ int main(){
         }
         printf("%d 元", total);
     }
+    return 0;
 }
